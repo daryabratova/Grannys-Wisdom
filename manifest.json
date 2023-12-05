@@ -1,7 +1,7 @@
 {
-  "name": "Granny's wisdom",
+  "name": "Granny's Wisdom",
   "description": "Get a precious piece of wisdom from your old granny",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "manifest_version": 3,
   "icons": {
     "16": "/images/icon16.png",
